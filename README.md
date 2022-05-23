@@ -1,2 +1,4 @@
 # practicafinal
-Practica final de ATWM
+Practica final de la asignatura de ATWM.
+
+Relizaremos una red social.
