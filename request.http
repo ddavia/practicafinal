@@ -3,10 +3,10 @@ POST http://localhost:80/users HTTP/1.1
 Content-Type: application/json
 
 {
-    "name" : "adria ",
+    "name" : "ddavia ",
     "age" : "22",
-    "email" : "adria@gmail.com",
-    "contraseña" : "adria"
+    "email" : "daviddds@gmail.com",
+    "contraseña" : "david"
 }
 
 ###
