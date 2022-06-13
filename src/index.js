@@ -13,7 +13,7 @@ mongoose.connect('mongodb+srv://dirk:dirk@cluster0.53zgh.mongodb.net/?retryWrite
     .catch(err => console.error(err));
 
 app.get('/',(req,res) => {
-    res.send('Aquesta es la API del Dirk')
+    res.send('Aquesta es la API ')
 });
 
 app.post("/users", (req,res) => {
